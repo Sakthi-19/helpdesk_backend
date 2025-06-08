@@ -1,7 +1,5 @@
 # helpdesk_backend
 
-# Helpdesk Backend
-
 A Django REST Framework-based backend API for a helpdesk management system with OpenAI integration for intelligent ticket processing and response generation.
 
 ## Features
